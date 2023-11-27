@@ -10,6 +10,7 @@ int main(){
     //letting player create their own character
     //player chooses race
     std::cout << "Welcome to the tournament!" << std::endl;
+    std::cout << "See if you can survive till the end!" std::endl;
     // this is a comment to cause a merge conflict
     std::cout << "Choose your race!" << std::endl;
     std::cout << "(e for elf, d for dwarf, h for human, m for halfling)" << std::endl;
